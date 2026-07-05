@@ -1,0 +1,108 @@
+BITÁCORA DE TERMINAL - CLASE 36
+Código abierto, soberanía tecnológica y primeros pasos en terminal
+
+Nombre del estudiante:Diego_Peña
+Fecha:05/07/2026
+Clase:36
+Entorno usado: Cursor
+
+1. ¿Qué es un sistema operativo?
+Respuesta: Software de un servidor
+
+2. ¿Qué es el código abierto?
+Respuesta: Código que todos pueden realizar aportes
+
+3. ¿Qué significa soberanía tecnológica?
+Respuesta: Capacidad de controlar que tecnologia se usa
+
+4. ¿Qué es Linux?
+Respuesta: Es un sistema operativo de codigo abierto
+
+5. ¿Qué es Debian?
+Respuesta: Es un tipo de linux seguro y estable
+
+6. ¿Qué es un servidor?
+Respuesta: Una máquina física donde opera mis apliacaciones
+
+7. ¿Qué es una terminal?
+Respuesta:es mi consola de comandos
+
+8. Comandos ejecutados y resultado observado:
+
+Comando: whoami
+Resultado: Muestra ususario actual
+
+Comando: hostname
+Resultado: Muestra nombre server
+
+Comando: date
+Resultado: muestra fecha y hora actual
+
+Comando: pwd
+Resultado: muestra carpeta donde estoy
+
+Comando: ls
+Resultado: muestra archivos de esa carpeta
+
+Comando: ls -la
+Resultado: Muestra archivos ocultos
+
+Comando: mkdir practica-linux
+Resultado: crea carpeta practica-linux
+
+Comando: cd practica-linux
+Resultado:cambia a carpeta practica-linux
+
+Comando: touch notas.txt
+Resultado: crea archivo notas.txt
+
+Comando: echo "Mi primera practica en terminal Debian" > notas.txt
+Resultado: Imprime ese texto en archivo notas .txt
+
+Comando: cat notas.txt
+Resultado: muestra lo que hay en el archivo notas.txt
+
+Comando: cp notas.txt copia-notas.txt
+Resultado: copia notas.txt a copia-notas.txt
+
+Comando: mv copia-notas.txt notas-renombradas.txt
+Resultado:Renombra archivos
+
+Comando: mkdir respaldo
+Resultado: crea carpeta respaldo
+
+Comando: mv notas-renombradas.txt respaldo/
+Resultado: cambia el nombre a archivo notas-renombradas.txt en carpeta respaldo
+
+Comando: df -h
+Resultado: Muetsra el disco del equipo
+
+Comando: free -h
+Resultado: Muestra memoria
+
+Comando: uname -a
+Resultado: Muestra sistema operativo corriendo
+
+Comando: history
+Resultado: Muestra historial de comandos
+
+Comando: ip a
+Resultado: Muestra interfaces de internet que tiene la maquina puesta
+
+Comando: top
+Resultado: Muestra procesos corriendo en el servidor
+
+9. ¿Qué comando me pareció más útil y por qué?
+Respuesta:rm, porque no sabia eliminar cosas
+
+10. ¿Qué aprendí sobre el uso responsable de la terminal?
+Respuesta: Que si elimino sin cuidado no tendré una copia
+
+11. ¿Qué información no debo publicar en capturas o evidencias?
+Respuesta: Contraseñas y demás
+
+12. ¿Qué cuidados debo tener al trabajar en un servidor?
+Respuesta:
+
+13. ¿Cómo se relaciona la terminal con la soberanía tecnológica?
+Respuesta:
